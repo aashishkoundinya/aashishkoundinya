@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Aashish 😄
 
 
-I am still new to Coding but I am a Hungry Learner. Right Now i do some simple projects that i find interesting. Love watching F1, and Esports. I game way more than I code!!
+Amateur in coding but very eager to learn. Right Now I do some simple projects that I find interesting. Love watching F1, and Esports. I game way more than I code!!
 
 🔭 I’m currently an Engineering Student
 
