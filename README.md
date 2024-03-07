@@ -5,6 +5,6 @@ I am still new to Coding but I am a Hungry Learner. Right Now i do some simple p
 
 🔭 I’m currently an Engineering Student
 
-🌱 I’m currently learning C++
+🌱 I’m currently learning Full Stack Web Development
 
 ⚙️ Multithreading my brain.
