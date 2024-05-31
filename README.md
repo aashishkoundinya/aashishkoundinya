@@ -5,6 +5,6 @@ Amateur in coding but very eager to learn. Right Now I do some simple projects t
 
 🔭 I’m currently an Engineering Student
 
-🌱 I’m currently learning Full Stack Web Development
+🌱 I’m currently learning Full Stack Development
 
 ⚙️ Multithreading my brain.
