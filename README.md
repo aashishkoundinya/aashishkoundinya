@@ -1,7 +1,6 @@
 ### Hi there 👋 I am Aashish 😄
 
-
-Amateur in coding but very eager to learn. Right Now I do some simple projects that I find interesting. Love watching F1, and Esports. I game way more than I code!!
+I'm Aashish, a 3rd-year engineering student with an insatiable appetite for technology. Milkshakes fuel my coding adventures. Always eager to learn, I'm currently diving headfirst into Full-Stack Development. When I'm not coding, you might find me conquering epic quests in virtual worlds!
 
 🔭 I’m currently an Engineering Student
 
