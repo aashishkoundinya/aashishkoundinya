@@ -1,9 +1,3 @@
 ### Hi there 👋 I am Aashish 😄
 
-I'm Aashish, a 3rd-year engineering student who is hardworking and eager to learn new things. Currently learning technologies while pariticipating in projects that i find interesting and excites me! Milkshakes fuel my coding adventures. When I'm not coding, you might find me conquering epic quests in virtual worlds!
-
-🔭 I’m currently a B.E Student in Computer Science and Engineering
-
-🌱 Learning Full Stack Development
-
-⚙️ Multithreading my brain.
+I'm a 3rd-year engineering student who enjoys learning new technologies and working on interesting projects. I'm especially interested in Backend Development and DevOps but in the process ended up learning Full-Stack Development. I like building things that solve real problems. Milkshakes usually keep me going while I code, and when I'm not coding, you might find me playing games and exploring virtual worlds.
